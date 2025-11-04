@@ -113,9 +113,8 @@ An interactive *Power BI dashboard* was built to visualize:
 - Strengthen marketing for underperforming vendors  
 
 ---
-<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+<h2><a class="anchor" id="author--contact"></a>👤 Author & Contact</h2>
 
-## 👤 Author & Contact
 **Jivesh Kumar**  
 _Data Analyst_  
 📧 **Email:** [jiveshh.mishra@gmail.com](mailto:jiveshh.mishra@gmail.com)  
