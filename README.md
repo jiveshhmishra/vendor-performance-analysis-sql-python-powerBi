@@ -17,9 +17,8 @@ _Transformed raw procurement data into actionable insights using **SQL**, **Pyth
 
 
 ---
-<h2><a class="anchor" id="overview"></a>Overview</h2>
+<h2><a class="anchor" id="overview"></a>🧠 Overview</h2>
 
-## 🧠 Overview
 This project evaluates **vendor performance** and **retail inventory dynamics** to generate strategic insights for procurement, pricing, and stock optimization.  
 A complete end-to-end data pipeline was developed using:
 - **SQL** for ETL and data structuring  
@@ -27,9 +26,8 @@ A complete end-to-end data pipeline was developed using:
 - **Power BI** for interactive visualization and decision dashboards  
 
 ---
-<h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
+<h2><a class="anchor" id="business-problem"></a>💼 Business Problem</h2>
 
-## 💼 Business Problem
 Effective inventory and vendor management are critical to profitability in retail operations.  
 This project aims to:
 
@@ -40,17 +38,15 @@ This project aims to:
 - Statistically validate differences in vendor profitability  
 
 ---
-<h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
+<h2><a class="anchor" id="tools--technologies"></a>🧰 Tools & Technologies</h2>
 
-## 🧰 Tools & Technologies
 - **SQL:** Common Table Expressions (CTEs), Joins, Filtering, Aggregations  
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn, SciPy (for hypothesis testing)  
 - **Power BI:** Interactive dashboards and performance KPIs  
 
 ---
-<h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
+<h2><a class="anchor" id="data-cleaning--preparation"></a>🧹 Data Cleaning & Preparation</h2>
 
-## 🧹 Data Cleaning & Preparation
 Performed rigorous preprocessing steps to ensure data quality:
 
 - Removed invalid transactions with  
@@ -61,9 +57,8 @@ Performed rigorous preprocessing steps to ensure data quality:
 - Converted data types, handled outliers, and merged lookup tables for enriched analysis  
 
 ---
-<h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
+<h2><a class="anchor" id="exploratory-data-analysis-eda"></a>📊 Exploratory Data Analysis (EDA)</h2>
 
-## 📊 Exploratory Data Analysis (EDA)
 **Negative or Zero Values Detected:**  
 - Gross Profit: Min = -52,002.78 (loss-making sales)  
 - Profit Margin: Min = -∞ (sales at or below cost)  
@@ -79,9 +74,8 @@ Performed rigorous preprocessing steps to ensure data quality:
 - Negative: Profit Margin ↔ Sales Price (-0.179)  
 
 ---
-<h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
+<h2><a class="anchor" id="research-questions--key-findings"></a>🔍 Research Questions & Key Findings</h2>
 
-## 🔍 Research Questions & Key Findings
 1. **Brands for Promotions:** 198 brands show low sales but high profit margins  
 2. **Top Vendors:** Top 10 vendors contribute 65.69% of total purchases → over-reliance risk  
 3. **Bulk Purchasing Impact:** 72% average cost savings per unit in large orders  
@@ -92,9 +86,8 @@ Performed rigorous preprocessing steps to ensure data quality:
 6. **Hypothesis Testing:** Statistically significant difference in vendor margins — confirming distinct pricing and cost strategies  
 
 ---
-<h2><a class="anchor" id="Dashboard"></a>Dashboard</h2>
+<h2><a class="anchor" id="Dashboard"></a>📈 Dashboard</h2>
 
-## 📈 *Dashboard*
 An interactive *Power BI dashboard* was built to visualize:
 - Vendor performance by sales, profit, and category  
 - Brand-wise sales contribution  
@@ -103,9 +96,8 @@ An interactive *Power BI dashboard* was built to visualize:
 
 
 ---
-<h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
+<h2><a class="anchor" id="final-recommendations"></a>📈 Final Recommendations</h2>
 
-## 📈 Final Recommendations
 - Diversify vendor base to reduce dependency and supply risk  
 - Optimize bulk order volumes for cost advantage  
 - Reprice slow-moving, high-margin brands  
