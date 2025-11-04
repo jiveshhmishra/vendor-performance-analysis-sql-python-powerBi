@@ -92,6 +92,7 @@ Performed rigorous preprocessing steps to ensure data quality:
 6. **Hypothesis Testing:** Statistically significant difference in vendor margins — confirming distinct pricing and cost strategies  
 
 ---
+<h2><a class="anchor" id="Dashboard"></a>Dashboard</h2>
 ## 📈 Dashboard
 
 An interactive *Power BI dashboard* was built to visualize:
@@ -99,7 +100,7 @@ An interactive *Power BI dashboard* was built to visualize:
 - Brand-wise sales contribution  
 - Inventory turnover & unsold stock patterns  
 - Bulk purchase cost-benefit analysis
-<h2><a class="anchor" id="Dashboard"></a>Dashboard</h2>
+
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
