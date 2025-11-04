@@ -93,8 +93,8 @@ Performed rigorous preprocessing steps to ensure data quality:
 
 ---
 <h2><a class="anchor" id="Dashboard"></a>Dashboard</h2>
-## 📈 Dashboard
 
+## 📈 *Dashboard*
 An interactive *Power BI dashboard* was built to visualize:
 - Vendor performance by sales, profit, and category  
 - Brand-wise sales contribution  
