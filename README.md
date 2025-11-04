@@ -5,16 +5,19 @@ _Transformed raw procurement data into actionable insights using **SQL**, **Pyth
 ---
 
 ## 📌 Table of Contents
-- [Overview](#overview)
-- [Business Problem](#business-problem)
-- [Tools & Technologies](#tools--technologies)
-- [Data Cleaning & Preparation](#data-cleaning--preparation)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Research Questions & Key Findings](#research-questions--key-findings)
-- [Final Recommendations](#final-recommendations)
-- [Author & Contact](#author--contact)
+- <a href="#overview">Overview</a>
+- <a href="#business-problem">Business Problem</a>
+- <a href="#tools--technologies">Tools & Technologies</a>
+- <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
+- <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
+- <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
+- <a href="#Dashboard">Dashboard</a>
+- <a href="#final-recommendations">Final Recommendations</a>
+- <a href="#author--contact">Author & Contact</a>
+
 
 ---
+<h2><a class="anchor" id="overview"></a>Overview</h2>
 
 ## 🧠 Overview
 This project evaluates **vendor performance** and **retail inventory dynamics** to generate strategic insights for procurement, pricing, and stock optimization.  
@@ -24,6 +27,7 @@ A complete end-to-end data pipeline was developed using:
 - **Power BI** for interactive visualization and decision dashboards  
 
 ---
+<h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
 ## 💼 Business Problem
 Effective inventory and vendor management are critical to profitability in retail operations.  
@@ -36,6 +40,7 @@ This project aims to:
 - Statistically validate differences in vendor profitability  
 
 ---
+<h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
 ## 🧰 Tools & Technologies
 - **SQL:** Common Table Expressions (CTEs), Joins, Filtering, Aggregations  
@@ -43,6 +48,7 @@ This project aims to:
 - **Power BI:** Interactive dashboards and performance KPIs  
 
 ---
+<h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
 ## 🧹 Data Cleaning & Preparation
 Performed rigorous preprocessing steps to ensure data quality:
@@ -55,6 +61,7 @@ Performed rigorous preprocessing steps to ensure data quality:
 - Converted data types, handled outliers, and merged lookup tables for enriched analysis  
 
 ---
+<h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
 
 ## 📊 Exploratory Data Analysis (EDA)
 **Negative or Zero Values Detected:**  
@@ -72,6 +79,7 @@ Performed rigorous preprocessing steps to ensure data quality:
 - Negative: Profit Margin ↔ Sales Price (-0.179)  
 
 ---
+<h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
 
 ## 🔍 Research Questions & Key Findings
 1. **Brands for Promotions:** 198 brands show low sales but high profit margins  
@@ -84,6 +92,17 @@ Performed rigorous preprocessing steps to ensure data quality:
 6. **Hypothesis Testing:** Statistically significant difference in vendor margins — confirming distinct pricing and cost strategies  
 
 ---
+## 📈 Dashboard
+
+An interactive *Power BI dashboard* was built to visualize:
+- Vendor performance by sales, profit, and category  
+- Brand-wise sales contribution  
+- Inventory turnover & unsold stock patterns  
+- Bulk purchase cost-benefit analysis
+<h2><a class="anchor" id="Dashboard"></a>Dashboard</h2>
+
+---
+<h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
 
 ## 📈 Final Recommendations
 - Diversify vendor base to reduce dependency and supply risk  
@@ -93,6 +112,7 @@ Performed rigorous preprocessing steps to ensure data quality:
 - Strengthen marketing for underperforming vendors  
 
 ---
+<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 ## 👤 Author & Contact
 **Jivesh Kumar**  
@@ -102,4 +122,4 @@ _Data Analyst_
 
 ---
 
-⭐ *If you liked this project, don’t forget to star the repository!*
+
